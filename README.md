@@ -1,1 +1,1 @@
-# password-checker
+A password checker tool is a website application designed to evaluate the strength and security of a password. It checks factors such as length, complexity (including the use of uppercase, lowercase, numbers, and special characters), and common password patterns or vulnerabilities. The tool helps users create stronger, more secure passwords by offering suggestions for improvement and identifying weak or easily guessable passwords.
